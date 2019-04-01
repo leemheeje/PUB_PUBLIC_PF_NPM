@@ -1,0 +1,19 @@
+{
+  "name": "leemheeje-plugins",
+  "version": "1.0.2",
+  "description": "",
+  "main": "./js/design.plugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leemheeje/PUB_PUBLIC_PF_NPM.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leemheeje/PUB_PUBLIC_PF_NPM/issues"
+  },
+  "homepage": "https://github.com/leemheeje/PUB_PUBLIC_PF_NPM#readme"
+}
